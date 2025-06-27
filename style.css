@@ -1,10 +1,11 @@
 body {
-    background-color: lightpink;
+    background: linear-gradient(to right, #fa9cd6,#dea4fc);
+    padding: 11px;
 }
 h1{
     text-align:center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(219, 122, 138); 
+    color: rgb black; 
 }
 
 img { width: 400px;
@@ -16,7 +17,7 @@ h2 {color:black}
 .about-me {background-color: babypink;}
 
 .button {
-    background-color: lightcoral;
+    background-color: rgb(219, 180, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -25,3 +26,8 @@ h2 {color:black}
     grid-template-rows: repeat(2, 1fr);
     gap: 10px;
 }
+
+.li{font-size: 16;}
+
+
+
